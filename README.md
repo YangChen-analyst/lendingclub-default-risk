@@ -75,9 +75,9 @@ loan-default-risk-analysis/
 
 ## 👩‍💻 Author
 
-- **Name:** [Your Name]
-- **LinkedIn:** [Your LinkedIn URL]
-- **Portfolio Website:** [Optional if hosted]
+- **Name:** Yang Chen
+- **LinkedIn:** www.linkedin.com/in/yang-chen-34a6401a1
+- **Portfolio Website:** https://github.com/YangChen-analyst/lendingclub-default-risk/
 
 ---
 
