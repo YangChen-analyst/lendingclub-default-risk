@@ -11,6 +11,9 @@
 
 > **Which borrower segments are high risk, and how can we reduce loan default rates?**
 
+## 📌 Business Problem Statement
+
+> **The goal is to identify which borrower segments are at higher risk of loan default using Lending Club data. This will be measured by comparing default rates across variables like income range, credit grade, loan purpose, and term. By analyzing these trends, we aim to recommend actionable strategies—such as stricter approval criteria for high-risk segments—to reduce default rates. This analysis supports data-driven decision-making to improve loan portfolio performance.**
 ---
 
 ## 🎯 Project Objectives
