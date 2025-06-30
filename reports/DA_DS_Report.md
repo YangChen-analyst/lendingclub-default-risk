@@ -1,6 +1,6 @@
 # Loan Default Risk Analysis Report — Data Analytics & Data Science
 
-## 📊 Key Data Insights
+## Key Data Insights
 
 - **Higher interest rates (`int_rate`) and lower annual incomes (`annual_inc`) are strongly associated with defaults.**
 - **Loans with 60-month terms are significantly riskier than 36-month terms.**
@@ -25,7 +25,7 @@ This report presents a comprehensive analysis of the Lending Club loan dataset, 
 |-|-|-|
 |Logistic Regression| F1-Score (Default class) = 0.41 | 0.67|
 |Random Forest| F1-Score = 0.11| 0.70 (but poor recall)|
-|XGBoost| F1-Score = 0.43|0.72 — Best overall balance|
+|XGBoost| F1-Score = 0.43|0.72 - Best overall balance|
 
 ## 4. SHAP Explainability Insights
 SHAP values provided interpretability of XGBoost model outputs. Top features impacting default prediction include:

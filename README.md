@@ -1,10 +1,10 @@
-# 📊 Loan Default Risk Analysis — End-to-End BI, Data Analytics & Data Science Project
+#  Loan Default Risk Analysis — End-to-End BI, Data Analytics & Data Science Project
 
 This project demonstrates a full pipeline — from data cleaning, exploratory data analysis (EDA), and statistical testing to predictive modeling and an interactive BI dashboard — to identify and mitigate high-risk borrower segments in Lending Club’s loan portfolio.
 
 ---
 
-## 🚀 **Business Objective**
+##  **Business Objective**
 
 **Key Question:** *Which borrower segments pose higher loan default risk, and how can Lending Club adjust lending policies to reduce losses?*
 
@@ -15,7 +15,7 @@ By combining data analytics, machine learning, and BI visualization, this projec
 
 ---
 
-## 📂 **Repository Structure**
+##  **Repository Structure**
 
 ```
 loan-default-risk-analysis/
@@ -48,7 +48,7 @@ loan-default-risk-analysis/
 └── .gitignore
 ---
 ```
-## 📊 **Project Workflow**
+##  **Project Workflow**
 
 | Phase | Deliverable | Tools |
 |-------|--------------|-------|
@@ -60,7 +60,7 @@ loan-default-risk-analysis/
 
 ---
 
-## 🗂️ **Dataset Overview**
+##  **Dataset Overview**
 
 - **Source:** [Kaggle Lending Club Dataset](https://www.kaggle.com/datasets/gabrielsantello/lending-club-loan-preprocessed-dataset)
 - **Rows:** ~1M historical loan records
@@ -71,7 +71,7 @@ loan-default-risk-analysis/
 ---
 
 
-## ✅ **Key Results**
+##  **Key Results**
 
 - **Best Performing Model:** XGBoost (ROC AUC: 0.72)
 - **Most Influential Features:** `sub_grade`, `annual_inc`, `int_rate`, `open_acc`, `loan_amnt`
@@ -81,18 +81,18 @@ loan-default-risk-analysis/
 
 ---
 
-## 📈 **Dashboard Highlights**
+##  **Dashboard Highlights**
 
 The Tableau dashboard provides:
 - KPI summary (default rate, loan amount, income)
 - Risk by **income**, **grade**, **purpose**, **term**, **home ownership**
 - Regional map of default risk across U.S. states
 
-✅ *The dashboard helps stakeholders quickly spot emerging grid instability and adjust policies accordingly.*
+ *The dashboard helps stakeholders quickly spot emerging grid instability and adjust policies accordingly.*
 
 ---
 
-## 💡 **Actionable Recommendations**
+##  **Actionable Recommendations**
 
 1. Tighten approval criteria for **Grades E–G** and incomes below **$50k**.
 2. Offer shorter loan terms to reduce default exposure.
@@ -102,16 +102,17 @@ The Tableau dashboard provides:
 
 ---
 
-## 👤 **Author**
+##  **Author**
 
 **Yang Chen** | Data Analyst | BI Developer | Data Science Enthusiast  
 - **LinkedIn:** [linkedin.com/in/yang-chen-34a6401a1](https://www.linkedin.com/in/yang-chen-34a6401a1)
 - **GitHub:** [YangChen-analyst](https://github.com/YangChen-analyst)
 - **Tableau Public:** [Tableau Portfolio](https://public.tableau.com/app/profile/yang.chen8410/vizzes)
+- **Email:** chenyang90098@gmail.com
 
 ---
 
-## 📫 **Contact**
+##  **Contact**
 
 Feel free to connect on LinkedIn or open an issue for questions and collaboration opportunities!
 
@@ -119,16 +120,16 @@ Feel free to connect on LinkedIn or open an issue for questions and collaboratio
 
 ---
 
-## 🔑 **Usage**
+##  **Usage**
 
 1. Clone this repo  
-2. Open notebooks in order: 1️⃣ → 2️⃣ → 3️⃣  
+2. Open notebooks in order: 01 -> 02 -> 03  
 3. Review `DA_DS_Report.md` for a detailed narrative  
 4. Open `lending_club.twbx` in Tableau for BI insights.
 
 ---
 
-## 🏆 **This project showcases:**
+## **This project showcases:**
 
 - Solid BI design with Tableau.
 - Robust EDA and statistical testing.
@@ -137,4 +138,4 @@ Feel free to connect on LinkedIn or open an issue for questions and collaboratio
 
 ---
 
-## ✅ Ready to mitigate loan default risk — backed by data-driven insights!
+## Ready to mitigate loan default risk — backed by data-driven insights!
