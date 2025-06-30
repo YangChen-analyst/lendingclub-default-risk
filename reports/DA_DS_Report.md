@@ -21,9 +21,9 @@ This report presents a comprehensive analysis of the Lending Club loan dataset, 
 
 ## 3. Model Performance Comparison
 **Metrics Summary:**
-Logistic Regression| F1-Score (Default class) = 0.41 | ROC AUC = 0.67
-Random Forest| F1-Score = 0.11| ROC AUC = 0.70 (but poor recall)
-XGBoost| F1-Score = 0.43| ROC AUC = 0.72 — Best overall balance
+|Logistic Regression| F1-Score (Default class) = 0.41 | ROC AUC = 0.67|
+|Random Forest| F1-Score = 0.11| ROC AUC = 0.70 (but poor recall)|
+|XGBoost| F1-Score = 0.43| ROC AUC = 0.72 — Best overall balance|
 
 ## 4. SHAP Explainability Insights
 SHAP values provided interpretability of XGBoost model outputs. Top features impacting default prediction include:
