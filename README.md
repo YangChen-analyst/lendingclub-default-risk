@@ -47,16 +47,16 @@ loan-default-risk-analysis/
 ├── README.md
 └── .gitignore
 ---
-
+```
 ## 📊 **Project Workflow**
 
 | Phase | Deliverable | Tools |
 |-------|--------------|-------|
-| **1️⃣ Data Cleaning & Preprocessing** | Remove duplicates, handle nulls, engineer `Default Flag` | Python (Pandas) |
-| **2️⃣ Exploratory Data Analysis (EDA)** | Correlation heatmaps, T-tests, pattern discovery | Python (Seaborn, Matplotlib) |
-| **3️⃣ Predictive Modeling** | Logistic Regression, Random Forest, XGBoost, SHAP | scikit-learn, SHAP |
-| **4️⃣ Business Intelligence Dashboard** | Interactive Tableau dashboard for business users | Tableau |
-| **5️⃣ Executive Presentation** | 10-slide deck summarizing risk insights & recommendations | PowerPoint |
+| **1 Data Cleaning & Preprocessing** | Remove duplicates, handle nulls, engineer `Default Flag` | Python (Pandas) |
+| **2 Exploratory Data Analysis (EDA)** | Correlation heatmaps, T-tests, pattern discovery | Python (Seaborn, Matplotlib) |
+| **3 Predictive Modeling** | Logistic Regression, Random Forest, XGBoost, SHAP | scikit-learn, SHAP |
+| **4 Business Intelligence Dashboard** | Interactive Tableau dashboard for business users | Tableau |
+| **5 Executive Presentation** | 10-slide deck summarizing risk insights & recommendations | PowerPoint |
 
 ---
 
