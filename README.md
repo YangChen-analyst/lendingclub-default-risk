@@ -41,7 +41,8 @@ loan-default-risk-analysis/
 │ │ └── dashboard_screenshot.png
 │
 ├── reports/
-│ └── DA_DS_Report.md # Detailed write-up: EDA + ML + Insights
+│ ├── DA_DS_Report.md  # Detailed write-up: EDA + ML + Insights
+│ ├── Loan_Default_Risk_Report.docx  # Final formatted DS/ML report
 │
 ├── README.md
 └── .gitignore
@@ -69,7 +70,13 @@ loan-default-risk-analysis/
 
 ---
 
+
 ## ✅ **Key Results**
+
+- **Best Performing Model:** XGBoost (ROC AUC: 0.72)
+- **Most Influential Features:** `sub_grade`, `annual_inc`, `int_rate`, `open_acc`, `loan_amnt`
+- **SHAP Explainability:** Higher `sub_grade` and `int_rate`, and lower `annual_inc` significantly drive default predictions.
+- **Business Implication:** These features guide Lending Club’s risk-based loan pricing and approval strategies.
 
 
 ---
